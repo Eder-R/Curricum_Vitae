@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    
+}
+body {
+    text-justify: left;
+    background-color:#A9A9A9;
+    text-decoration: none;
+}
+
+table {
+    justify-items: center;
+    align-content:center;
+    padding: 0;
+    height: 100%;
+
+    border:1px solid black;
+    background-color:#A9A9A9;
+}
+
+.objective,
+.formation,
+.WorkExperience {
+    border: 2px solid black;
+    background-color: #708090
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+img {
+    width: 150px;
+    height: 150px
+}
+
